@@ -1,4 +1,4 @@
-name: MotxoneRDP
+name: motxoneRDP
 
 on: workflow_dispatch
 
